@@ -80,13 +80,13 @@ Examples:
 
 # Topics Covered
 
-1. **Variables & Data Types** – Variable assignment,Strings, Integers, Floats, Booleans, Lists, Dictionaries
-2. **If-Else Conditions** – Logical checks, nested conditions
-3. **Loops** – `for` and `while` loops, control flow (`break`, `continue`)
-4. **Functions** – Defining and calling functions, parameters and return values
-5. **User Input & Type Casting**
-6. **Basic Math Operations**
-7. **Simple Projects** – Mini scripts that apply basic logic (like VAT checker, login system)
+2. **Variables & Data Types** – Variable assignment,Strings, Integers, Floats, Booleans, Lists, Dictionaries
+3. **If-Else Conditions** – Logical checks, nested conditions
+4. **Loops** – `for` and `while` loops, control flow (`break`, `continue`)
+5. **Functions** – Defining and calling functions, parameters and return values
+6. **User Input & Type Casting**
+7. **Basic Math Operations**
+8. **Simple Projects** – Mini scripts that apply basic logic (like VAT checker, login system)
 
 
 
