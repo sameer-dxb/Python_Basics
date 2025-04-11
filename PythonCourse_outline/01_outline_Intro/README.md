@@ -1,4 +1,4 @@
-Welcome! This repository is dedicated to my journey of learning and mastering the fundamentals of Python programming.
+## Welcome! This repository is dedicated to my journey of learning and mastering the fundamentals of Python programming.
 
 ## 📘 What's Inside
 This repo covers the core building blocks of Python, broken down into easy-to-understand topics with practical examples.
