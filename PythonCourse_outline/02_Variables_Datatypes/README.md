@@ -1,4 +1,4 @@
-# 01 - Variables and Data Types
+2. **Variables & Data Types** – Variable assignment,Strings, Integers, Floats, Booleans, Lists, Dictionaries
 
 This section covers the basics of Python variables and data types.
 
