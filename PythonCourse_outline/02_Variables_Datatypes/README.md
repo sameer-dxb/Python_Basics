@@ -27,3 +27,13 @@ print("Float:", b, type(b))
 c = 2 + 3j
 print("Complex:", c, type(c))
 
+
+# 2. Boolean Type
+## bool – Represents True or False
+x = True
+y = False
+print(x, type(x))
+print(y, type(y))
+
+
+
