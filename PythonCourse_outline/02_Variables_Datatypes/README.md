@@ -52,3 +52,13 @@ print(my_tuple, type(my_tuple))
 ### range
 my_range = range(5)
 print(list(my_range), type(my_range))
+
+
+## 5. Set Types  (set, frozenset)
+### set
+my_set = {1, 2, 2, 3}
+print(my_set, type(my_set))  # duplicates removed
+
+### frozenset
+frozen = frozenset([1, 2, 3])
+print(frozen, type(frozen))
