@@ -12,8 +12,7 @@ This section covers the basics of Python variables and data types.
 
 # ✅ Python Data Types to Learn
 
-## 1. Numeric Types
-int, float, and complex
+## 1. Numeric Types (int, float, and complex)
 
 ### int
 a = 10
@@ -28,8 +27,7 @@ c = 2 + 3j
 print("Complex:", c, type(c))
 
 
-## 2. Boolean Type
-## bool – Represents True or False
+## 2. Boolean Type  ## bool – Represents True or False
 x = True
 y = False
 
