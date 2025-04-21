@@ -64,3 +64,10 @@ print(my_set, type(my_set))  # duplicates removed
 frozen = frozenset([1, 2, 3])
 
 print(frozen, type(frozen))
+
+## 6. Mapping Type  (dict – Key-value pairs)
+
+my_dict = {"name": "Sameer", "age": 30}
+
+print(my_dict, type(my_dict))
+
