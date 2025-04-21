@@ -37,9 +37,10 @@ print(y, type(y))
 ## 3. Text Type str – For textual data
 
 name = "Sameer"
+
 print(name, type(name))
 
-## 4. Sequence Types list, tuple, range
+## 4. Sequence Types  (list, tuple, range)
 ### list
 my_list = [1, 2, 3]
 print(my_list, type(my_list))
