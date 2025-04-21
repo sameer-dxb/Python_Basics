@@ -15,15 +15,15 @@ This section covers the basics of Python variables and data types.
 ## 1. Numeric Types
 int, float, and complex
 
-## int
+### int
 a = 10
 print("Integer:", a, type(a))
 
-## float
+### float
 b = 3.14
 print("Float:", b, type(b))
 
-## complex
+### complex
 c = 2 + 3j
 print("Complex:", c, type(c))
 
