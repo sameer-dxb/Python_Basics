@@ -34,5 +34,20 @@ y = False
 print(x, type(x))
 print(y, type(y))
 
+## 3. Text Type str – For textual data
 
+name = "Sameer"
+print(name, type(name))
 
+## 4. Sequence Types list, tuple, range
+### list
+my_list = [1, 2, 3]
+print(my_list, type(my_list))
+
+### tuple
+my_tuple = (1, 2, 3)
+print(my_tuple, type(my_tuple))
+
+### range
+my_range = range(5)
+print(list(my_range), type(my_range))
